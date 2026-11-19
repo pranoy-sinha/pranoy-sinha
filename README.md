@@ -3,6 +3,8 @@
 - 🌱 I’m currently learning Flutter, Python, Django
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me - Contact me through an email.
+- My Profile: https://pranoy-sinha.github.io/
+- LinkedIn: https://www.linkedin.com/in/software-developer-india/
 
 <!---
 elogicsoft/elogicsoft is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
